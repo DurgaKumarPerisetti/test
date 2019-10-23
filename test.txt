@@ -1,2 +1,10 @@
+<<<<<<< HEAD
 Adding sample filesdfjasdlfjljjlkjdf
 sfjsfjljjlkjdf
+=======
+Adding sample file
+dsjfljasdfkj
+adsfjlj
+alkdsjflj
+dsjf
+>>>>>>> fix1
